@@ -1,0 +1,4 @@
+git is a free software ,it's free for everyone,
+It's very popular.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
